@@ -1,0 +1,2 @@
+# swayrice
+Dotfiles for Sway
