@@ -1,2 +1,2 @@
-# swayrice
+# swayconfigs
 Dotfiles for Sway
